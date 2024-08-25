@@ -5,15 +5,15 @@
         "Blog Demographic": "Professional",
         "Blog Type": "Informational",
         "Blog Language": "English",
-        "Blog Output Format": "markdown"
+        "Blog Output Format": "HTML"
     },
     "Blog Images Details": {
         "Image Generation Model": "stable-diffusion",
         "Number of Blog Images": 1
     },
     "LLM Options": {
-        "GPT Provider": "google",
-        "Model": "gemini-1.5-flash-latest",
+        "GPT Provider": "openai",
+        "Model": "gpt-4o-mini",
         "Temperature": 0.7,
         "Top-p": 0.9,
         "Max Tokens": 4000,
